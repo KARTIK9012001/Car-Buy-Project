@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Car-Buy-Project/static/css/main.a6f09b31.css",
+    "main.js": "/Car-Buy-Project/static/js/main.703270bf.js",
+    "static/media/pricing.jpg": "/Car-Buy-Project/static/media/pricing.d3f75b1237c3fa050f33.jpg",
+    "static/media/about.jpg": "/Car-Buy-Project/static/media/about.537512701870e1b426d1.jpg",
+    "static/media/services.jpg": "/Car-Buy-Project/static/media/services.cf2f1f76d2e3dc348dc6.jpg",
+    "static/media/banner.jpg": "/Car-Buy-Project/static/media/banner.6c11eb1e00fe20933031.jpg",
+    "index.html": "/Car-Buy-Project/index.html",
+    "main.a6f09b31.css.map": "/Car-Buy-Project/static/css/main.a6f09b31.css.map",
+    "main.703270bf.js.map": "/Car-Buy-Project/static/js/main.703270bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6f09b31.css",
+    "static/js/main.703270bf.js"
+  ]
+}
