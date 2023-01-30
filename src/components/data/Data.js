@@ -26,7 +26,7 @@ export const nav = [
 ]
 export const featured = [
   {
-    cover: "images/hero/h1.jpg",
+    cover: "../images/hero/h1.jpg",
     name: "Hatchback",
     total: "43 Available",
   },
